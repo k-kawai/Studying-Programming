@@ -1,2 +1,3 @@
 # Studying-Programming
 Studying programming!!
+Java,JavaScript,Python,and more...
